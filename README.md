@@ -40,7 +40,7 @@ You should see output like:
 
 Visit the `Local:` url given in the Vite output (http://127.0.0.1:5173/). You should see something like this:
 
-![image](https://github.com/withgraphite/frontend-interview/assets/59429/5738bcaa-a700-4eef-8600-f3190b7e504f)
+![default app](https://github.com/withgraphite/frontend-interview/assets/59429/337cfdfb-0e6e-42cb-812b-c46b66c98173)
 
 ## Making frontend changes
 
