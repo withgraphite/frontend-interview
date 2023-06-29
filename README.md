@@ -51,7 +51,7 @@ Visit the `Local:` url given in the Vite output (http://127.0.0.1:5173/). You sh
 
 ## Making frontend changes
 
-To change the default app you see, open `src/App.tsx` and start making changes.
+To change the default app you see, open `src/App.tsx` and start making changes. The page should hot reload whenever you save a file.
 
 ## Linting
 
