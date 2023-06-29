@@ -49,3 +49,9 @@ To change the default app you see, open `src/App.tsx` and start making changes.
 ## Linting
 
 You can run eslint with `npm run lint`.
+
+## Meta
+
+This frontend repo was created with `npm create vite@latest -- --template react-ts`.
+
+If you need more documentation on Vite for any reason, please [read their docs](https://vitejs.dev/guide/).
