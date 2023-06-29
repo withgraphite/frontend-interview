@@ -2,7 +2,14 @@
 
 Thanks for deciding to interview with Graphite! This repository is meant to get you up and running with a TypeScript + React project, so you can start working on the actual interview problem from minute 1.
 
-Please do the entire **Setup** portion below _before_ you do the take-home interview. This will ensure that you don't spend any of your precious interview time on repo setup!
+This repo was created with Vite, and comes with:
+
+- React
+- TypeScript
+- eslint
+- dev server + hot module reload
+
+⚠️ Please do the entire **Setup** portion below _before_ you do the take-home interview. This will ensure that you don't spend any of your precious interview time on repo setup!
 
 ## Setup
 
